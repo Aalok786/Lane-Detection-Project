@@ -27,9 +27,11 @@ This project implements a lane detection and driver assistance system using comp
    ```bash
    git clone https://github.com/Aalok786/Lane-Detection-Project.git
 2. Navigate to the project directory:
-   ...cd lane-detection-project
-3. Install dependencies:
-   ...pip install-r requirements.txt
+    ```bash
+   /cd lane-detection-project
+4. Install dependencies:
+    ```bash
+   -pip install-r requirements.txt
 
 ## Usage
 1. Run the main script:
